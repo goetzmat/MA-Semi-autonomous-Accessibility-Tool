@@ -1,0 +1,64 @@
+Category,NoWebsites,Percentage,NoTotal
+'bypass';3;0.04;3
+ 'html-has-lang';6;0.08;6
+ 'label';36;0.48;80
+ 'landmark-one-main';34;0.4533333333333333;34
+ 'page-has-heading-one';24;0.32;24
+ 'region';59;0.7866666666666666;59
+'autocomplete-valid';3;0.04;5
+ 'button-name';11;0.14666666666666667;46
+ 'duplicate-id-aria';6;0.08;12
+ 'heading-order';22;0.29333333333333333;96
+ 'link-name';33;0.44;308
+ 'listitem';5;0.06666666666666667;238
+ 'radiogroup';1;0.013333333333333334;1
+'color-contrast';8;0.10666666666666667;85
+ 'image-alt';20;0.26666666666666666;167
+ 'image-redundant-alt';14;0.18666666666666668;246
+'aria-allowed-role';30;0.4;230
+ 'frame-title';12;0.16;20
+ 'landmark-no-duplicate-banner';5;0.06666666666666667;5
+ 'list';5;0.06666666666666667;7
+'empty-heading';1;0.013333333333333334;2
+ 'label-title-only';2;0.02666666666666667;2
+ 'skip-link';10;0.13333333333333333;22
+'link-name';1;0.013333333333333334;4
+ 'checkboxgroup';3;0.04;3
+ 'color-contrast';27;0.36;1408
+ 'definition-list';2;0.02666666666666667;29
+ 'empty-heading';8;0.10666666666666667;35
+'duplicate-id';1;0.013333333333333334;3
+'aria-required-children';2;0.02666666666666667;2
+ 'autocomplete-valid';5;0.06666666666666667;6
+ 'duplicate-id-active';3;0.04;3
+ 'aria-required-children';1;0.013333333333333334;1
+ 'duplicate-id';12;0.16;26
+ 'tabindex';3;0.04;14
+ 'aria-valid-attr-value';3;0.04;3
+ 'meta-viewport';7;0.09333333333333334;7
+ 'object-alt';1;0.013333333333333334;3
+'aria-allowed-attr';1;0.013333333333333334;1
+ 'aria-allowed-role';1;0.013333333333333334;3
+ 'aria-valid-attr';2;0.02666666666666667;12
+'button-name';9;0.12;16
+'label';1;0.013333333333333334;1
+'image-alt';2;0.02666666666666667;4
+ 'meta-viewport-large';1;0.013333333333333334;1
+'checkboxgroup';1;0.013333333333333334;1
+ 'bypass';2;0.02666666666666667;2
+'duplicate-id-aria';1;0.013333333333333334;1
+ 'landmark-banner-is-top-level';2;0.02666666666666667;2
+ 'landmark-contentinfo-is-top-level';3;0.04;3
+'frame-title';2;0.02666666666666667;2
+'landmark-one-main';2;0.02666666666666667;2
+'aria-valid-attr-value';1;0.013333333333333334;2
+ 'aria-required-parent';1;0.013333333333333334;1
+ 'aria-required-attr';2;0.02666666666666667;38
+'heading-order';1;0.013333333333333334;1
+'skip-link';1;0.013333333333333334;1
+'html-has-lang';1;0.013333333333333334;1
+ 'landmark-no-duplicate-contentinfo';2;0.02666666666666667;2
+ 'landmark-main-is-top-level';1;0.013333333333333334;1
+'area-alt';1;0.013333333333333334;61
+'aria-valid-attr';1;0.013333333333333334;6
+'meta-viewport';1;0.013333333333333334;1
