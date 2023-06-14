@@ -1,0 +1,19 @@
+Eigener Checker:
+
+Davor: 
+Gefundene Accessibility Probleme: 32374
+
+
+Danach:
+Gefundenene Accessibility Probleme: 8292
+
+
+Axe: 
+
+Davor: 
+Gefundene Accessibility Probleme: 3411
+Unterschiedliche Fehlertypen/Webseite im Schnitt: 7,49
+
+Danach:
+Gefundenene Accessibility Probleme: 2776
+Unterschiedliche Fehlertypen/Webseite im Schnitt: 6.93
