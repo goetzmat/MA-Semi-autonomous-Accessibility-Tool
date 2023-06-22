@@ -17,3 +17,10 @@ Unterschiedliche Fehlertypen/Webseite im Schnitt: 7,49
 Danach:
 Gefundenene Accessibility Probleme: 2776
 Unterschiedliche Fehlertypen/Webseite im Schnitt: 6.93
+
+
+Axe bereinigt:
+
+davor: 2888
+
+danach: 2291
